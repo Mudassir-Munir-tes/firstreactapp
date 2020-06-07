@@ -14,7 +14,7 @@ function App() {
       <li>Thank you!</li>
       </ol>
       </div>
-    </div>
+      </div>
   );
 }
 
