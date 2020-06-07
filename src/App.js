@@ -10,8 +10,10 @@ function App() {
       <h1><center>AFTER EDITING</center></h1>
       <ol><li>created react app first through command line</li>
       <li>Deployed/hosted on surge</li>
-      <li>Created actions on github for CI/continuous integration</li></ol>
-      <li>Thank you!</li></ol>
+      <li>Created actions on github for CI/continuous integration </li>
+      <li>Thank you!</li>
+      </ol>
+      </div>
     </div>
   );
 }
