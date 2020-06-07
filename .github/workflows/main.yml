@@ -44,7 +44,7 @@ jobs:
     
   
     - name: deploy on surge
-      run: surge ./build http://bootcamp_mudassir.surge.sh/ --token ${{secrets.SURGETOKEN}}
+      run: surge ./build http://bootcamp_mudassir.surge.sh/ --token ${{secrets.SURGETOKEN2}}
         
         echo Add other actions to build,
         echo test, and deploy your project.
